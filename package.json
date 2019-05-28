@@ -1,0 +1,14 @@
+{
+  "name": "ultimate-poker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trips.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pokersolver": "^2.1.3"
+  }
+}
